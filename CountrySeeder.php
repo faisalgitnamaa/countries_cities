@@ -220,7 +220,7 @@ class CountrySeeder extends Seeder
                 array('id' => '204','name_ar' => 'تركمانستان','name_fr' => 'Turkménistan','name_en' => 'Turkmenistan','code' => 'tm'),
                 array('id' => '205','name_ar' => 'تونس','name_fr' => 'Tunisie','name_en' => 'Tunisia','code' => 'tn'),
                 array('id' => '206','name_ar' => 'تونغا','name_fr' => 'Tonga','name_en' => 'Tonga','code' => 'to'),
-                array('id' => '207','name_ar' => 'ديك رومي','name_fr' => 'dinde','name_en' => 'Turkey','code' => 'tr'),
+                array('id' => '207','name_ar' => 'تركيا','name_fr' => 'dinde','name_en' => 'Turkey','code' => 'tr'),
                 array('id' => '208','name_ar' => 'ترينداد وتوباغو','name_fr' => 'Trinité-et-Tobago','name_en' => 'Trinidad and Tobago','code' => 'tt'),
                 array('id' => '209','name_ar' => 'توفالو','name_fr' => 'Tuvalu','name_en' => 'Tuvalu','code' => 'tv'),
                 array('id' => '210','name_ar' => 'تايوان','name_fr' => 'Taïwan','name_en' => 'Taiwan','code' => 'tw'),
